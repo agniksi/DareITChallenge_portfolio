@@ -7,7 +7,7 @@ That is why I decided to try myself in this challenge and ensure I still manage 
 
 My main goal is to learn the basics of automatic testing while doing something practical because I find a hands-on approach best for learning subjects like these.
 
-If you managed to read this far I wish you a great day/night. Remember to stay hydrated!
+If you managed to read this far I wish you a great day/night. Don't forget to keep yourself hydrated!
 
 **_Stay amazing!_**
 
