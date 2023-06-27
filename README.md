@@ -9,7 +9,7 @@ My main goal is to learn the basics of automatic testing while doing something p
 
 If you managed to read this far I wish you a great day/night. Remember to stay hydrated!
 
-<h4>**_Stay amazing!_**<h4>
+**_Stay amazing!_**
 
 
 
